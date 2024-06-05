@@ -38,6 +38,36 @@ main {
     margin-top: 0;
 }
 
+.blog-entry h3 a {
+    color: #333;
+    text-decoration: none;
+}
+
+.blog-entry h3 a:hover {
+    text-decoration: underline;
+}
+
+.blog-entry-full {
+    background: #fff;
+    padding: 2rem;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 2rem;
+}
+
+nav {
+    margin-top: 2rem;
+}
+
+nav a {
+    color: #333;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
 footer {
     text-align: center;
     padding: 1rem 0;
